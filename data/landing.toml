@@ -1,0 +1,54 @@
+[hero]
+enable = true
+weight = 10
+template = "hero"
+title = "PLU 2025"
+subtitle = "Retrouver ici toutes les informations relatives à l'enquête publique portant sur le PLU 2025 de la ville de Sainte-Marie-du-Mont (Isère)"
+info = "*Mis en ligne par la commune de Sainte-Marie-du-Mont*"
+
+[hero.titleLogo]
+path = "images"
+filename = "logo.png"
+
+[hero.backgroundImage]
+path = "images"
+[hero.backgroundImage.filename]
+desktop = "gradient-desktop.webp"
+mobile = "gradient-mobile.webp"
+
+
+[hero.image]
+path = "images"
+filename = "smdm.jpg"
+boxShadow = true
+rounded = true
+
+[featureGrid]
+enable = true
+weight = 20
+template = "feature grid"
+title = "Les documents"
+subtitle = "Voici une liste exhaustive des documents relatifs au PLU que vous trouverez sur ce site.Ces documents sont disponible en version pdf et and version html (via le navigateur internel). **Seule la version au format *pdf* fait foi.**"
+
+[[featureGrid.items]]
+title = "Les renseignements concernant l'enquête publique"
+icon = "info"
+description = "Ce document présente les objectifs"
+
+[[featureGrid.items]]
+title = "Le PADD"
+icon = "target"
+description = "Ce document présente les objectifs"
+
+[[featureGrid.items]]
+title = "L'avis de la perfecture"
+icon = "account_balance"
+description = "Ce document présente les objectifs"
+
+[[featureGrid.items]]
+title = "L'avis de l'agence pour l'environement"
+icon = "compost"
+description = "Ce document présente les objectifs"
+
+[imageCompare]
+enable = true
