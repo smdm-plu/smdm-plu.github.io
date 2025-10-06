@@ -12,5 +12,3 @@ toc: true
 ### Version pdf
 Vous trouverez la version originale [ici](../files/PROCES_VERBAL_REUNION_DU_29_octobre_2024.pdf).
 
----
-
