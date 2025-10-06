@@ -28,27 +28,23 @@ enable = true
 weight = 20
 template = "feature grid"
 title = "Les documents"
-subtitle = "Voici une liste exhaustive des documents relatifs au PLU que vous trouverez sur ce site.Ces documents sont disponible en version pdf et and version html (via le navigateur internel). **Seule la version au format *pdf* fait foi.**"
+subtitle = "Voici une liste non exhaustive des documents relatifs à l'enquête publique portant sur le PLU 2025 de la ville de Sainte-Marie-du-Mont (Isère)."
 
 [[featureGrid.items]]
-title = "Les renseignements concernant l'enquête publique"
-icon = "info"
-description = "Ce document présente les objectifs"
+title = "Les actes de procédure"
+icon = "approval"
+description = "Cela comprend les délibérations du conseil municipal du 8 mai 2023 et du 29 octobre 2024, ainsi que le procès-verbal du conseil municipal du 29 octobre 2024."
 
 [[featureGrid.items]]
-title = "Le PADD"
-icon = "target"
-description = "Ce document présente les objectifs"
-
-[[featureGrid.items]]
-title = "L'avis de la perfecture"
+title = "Les annexes et délibarations"
 icon = "account_balance"
-description = "Ce document présente les objectifs"
+description = "Cela comprend notamment le plan d'assainissement de Sainte-Marie-du-Mont, le projet de plan de prévision des risques naturels prévisible, l'arrêté prefectoral relatif aux zones exposées à un risque de crues torrentielles, de glissements de terrains, de chutes de pierres et d'avalanche, ainsi que la liste recapitulative des servitudes d'utilité publique."
 
 [[featureGrid.items]]
-title = "L'avis de l'agence pour l'environement"
-icon = "compost"
-description = "Ce document présente les objectifs"
+title = "Les pièces du PLU"
+icon = "target"
+description = "Cela comprend notamment le zonage, le rapport de présentation, le PADD, les orientations d'aménagement et de programmation, ainsi que le règlement"
+
 
 [imageCompare]
 enable = true
