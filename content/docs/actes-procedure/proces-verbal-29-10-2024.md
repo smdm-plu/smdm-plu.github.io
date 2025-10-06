@@ -85,7 +85,7 @@ Le Maire rappelle la nécessité de créer un emploi temporaire pour le **recens
 Le Conseil charge le Maire du recrutement.
 
 
-#### 3. Remboursement des frais postaux
+##### 3. Remboursement des frais postaux
 
 Monsieur **Frédéric Pelloux**, 3e adjoint, informe que la machine à affranchir a été résiliée.
 Monsieur le Maire a avancé **18,76 €** pour l’achat de timbres, en attendant l’ouverture d’un compte professionnel à La Poste.
@@ -94,7 +94,7 @@ Le Maire ne prend pas part au vote.
 Le remboursement est **approuvé à l’unanimité** sur présentation des factures.
 
 
-#### 4. Syndicat de l’Alpe – Restauration du chalet – Portage des communes
+##### 4. Syndicat de l’Alpe – Restauration du chalet – Portage des communes
 
 L’Alpage est partagé entre **La Flachère**, **La Buissière**, **Sainte Marie d’Alloix**, **Sainte Marie du Mont** et **Saint Vincent de Mercuze**.
 
@@ -108,7 +108,7 @@ Le Maire est autorisé à participer au portage à hauteur de **2 424,24 € TTC
 **Adopté à l’unanimité.**
 
 
-#### 5. Remboursement des frais relatifs au site internet
+##### 5. Remboursement des frais relatifs au site internet
 
 Monsieur **Romain Vincent** a avancé **56,72 €** pour le renouvellement de l’abonnement du site Internet communal auprès d’**OVH Cloud** (emails, hébergement, nom de domaine).
 

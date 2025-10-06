@@ -34,6 +34,8 @@ subtitle = "Voici une liste non exhaustive des documents relatifs à l'enquête 
 title = "Les actes de procédure"
 icon = "approval"
 description = "Cela comprend les délibérations du conseil municipal du 8 mai 2023 et du 29 octobre 2024, ainsi que le procès-verbal du conseil municipal du 29 octobre 2024."
+ctaLink = { text = "En savoir plus", url = "/docs/actes-procedure/"}
+
 
 [[featureGrid.items]]
 title = "Les annexes et délibarations"

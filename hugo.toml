@@ -11,6 +11,10 @@ disable = false
 path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
 disable = false
 
+[markup.tableOfContents]
+endLevel = 5
+startLevel = 1
+
 [params]
 # Google Fonts
 google_fonts = [
@@ -30,6 +34,7 @@ title = "Test"
 darkMode = true
 titleIcon = true
 sidebarIcons = true
+themeColor = "cyan"
 breadcrumbs = true
 navDesc = true
 navDescTrunc = 30
