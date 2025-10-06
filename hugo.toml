@@ -27,7 +27,7 @@ secondary_font  = "Inter"     # Default is System font
 mono_font       = "Fira Code" # Default is System font
 
 [params.footer]
-copyright = "© :YEAR: Sainte-Marie-du-Mont Lotus Labs. Créé à l'aide de [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+copyright = "© :YEAR: Sainte-Marie-du-Mont. Créé à l'aide de [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
 
 [params.docs]
 title = "Test"
