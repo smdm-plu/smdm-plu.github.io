@@ -34,7 +34,6 @@ title = "Test"
 darkMode = true
 titleIcon = true
 sidebarIcons = true
-themeColor = "cyan"
 breadcrumbs = true
 navDesc = true
 navDescTrunc = 30
